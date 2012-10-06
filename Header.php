@@ -1,8 +1,8 @@
 
 <div id="topsection">
 	<div class="innertube">
-		<h1>EUS CLUB NAME</h1>
-		<h2>Club description or motto goes here!</h2>
+		<h1>McGill CEUS</h1>
+		<h2><b>C</b>ivil <b>E</b>ngineering <b>U</b>ndergraduate <b>S</b>ociety</h2>
 	</div>
 </div>
 

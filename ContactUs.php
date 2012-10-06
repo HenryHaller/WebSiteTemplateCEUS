@@ -4,7 +4,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 
-<title>POWE :: Contact Us</title>
+<title>McGill CEUS :: Contact Us</title>
 
 <?php include("SetUp.php");?>
 
@@ -21,20 +21,22 @@
 					<table cellpadding="5">
 						<tr>
 							<td><b>Mail:</b></td>
-							<td><div>McConnell Engineering Building</div>
-								<div>3480 University Street, Ground Floor, Room #7</div>
-								<div>Montreal, Québec H3A 2K6</div></td>
+							<td><div>Civil Engineering Undergraduate Society
+Department of Civil Engineering and Applied Mechanics
+Macdonald Engineering Building, Room 290
+817 Sherbrooke Street West
+Montreal, Quebec H3A 2K6</div></td>
 						</tr>
 
 						<tr>
 							<td><b>Email:</b></td>
-							<td>powe@mcgilleus.ca</td>
+							<td> mcgill_ceus@hotmail.com</td>
 						</tr>
 						<tr>
 							<td><b>Facebook Page:</b></td>
 							<td><a
-								href="http://www.facebook.com/pages/POWE-McGill/194911643925397">POWE
-									McGill</a>
+								href="http://www.facebook.com/pages/Civil-Engineering-Undergraduate-Society-of-McGill-University/129703557076380?fref=ts">McGill
+									CEUS</a>
 							</td>
 						</tr>
 					</table>

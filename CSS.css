@@ -7,6 +7,8 @@ Dark grey (Shadow): #888888
 Dark blue (Shadow): #2F4D8D
 Green (Menu background): #96B430
 Darker Green (Menu background): #5C8618
+McGill EUS Darker Red: #D00000
+McGill EUS Lighter Red: #E83C3B
 
 */
 body {
@@ -46,7 +48,7 @@ li{
 }
 
 #topsection {
-	background-image: url("Pictures/MontrealDusk.jpg");
+	background-image: url("Pictures/CivilLogo.jpg");
 	background-position: bottom;
 	background-size: cover;
 	height: 300px; /*Height of top section*/
@@ -57,7 +59,7 @@ li{
 	padding-top: 15px;
 	font-family:"Comic Sans MS", cursive, sans-serif;
 	font-size: 350%;
-	color: #FFF;
+	color: #D00000;
 	position: relative;
 	top: 190px;
 }
@@ -70,7 +72,7 @@ li{
 	font-size: 255%;
 	/*text-shadow: h-shadow v-shadow blur color;*/
 	text-shadow: 0px 0px 20px #000000;
-	color: #FFF;
+	color: #E83C3B;
 	text-align: right;
 	position: relative;
 	top: 205px;

@@ -50,7 +50,7 @@ li{
 #topsection {
 	background-image: url("Pictures/CivilLogo.jpg");
 	background-position: bottom;
-	background-size: cover;
+	background-size: contain;
 	height: 300px; /*Height of top section*/
 }
 

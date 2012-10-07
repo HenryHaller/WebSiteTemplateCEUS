@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-		<title>CLUB :: About</title>
+		<title>McGill CEUS :: About</title>
 
 <?php include("SetUp.php");?>
 
@@ -17,23 +17,97 @@
 <div id="content">
 			<div id="contentpage">
 				<div class="innertube">
-					<h1>About Club</h1>
-					<p>POWE is a philanthropic group at McGill University under
-						Engineering Undergraduate Society (EUS).</p>
+					<h1>About CEUS</h1>
+					<p>CEUS is your best friend.
+<p>Company Overview</p>
+<p>Your 2011-2012 CEUS Council:</p>
+<table cellpadding="5">
+						<tr>
+							<td><b>President</b></td>
+							<td><div>Neil DenToom</div></td>
+						</tr>
+						<tr>
+							<td><b>U1 Rep</b></td>
+							<td>Avril Levasseur</td>
+						</tr>
+                                                <tr>
+							<td><b>U2 Rep</b></td>
+							<td>Milad Moradi</td>
+						</tr>
+						<tr>
+							<td><b>U3</b></td>
+							<td>Martin DeSousa</td>
+						</tr>
+                                                <tr>
+							<td><b>VP Academic Affairs</b></td>
+							<td>Enis Hulli</td>
+						</tr>
+                                                <tr>
+							<td><b>VP Administration</b></td>
+							<td>Adam Hasham</td>
+						</tr>
+                                                <tr>
+							<td><b>VP Communications</b></td>
+							<td>Prashanth Selvakumar</td>
+						</tr>
+                                                <tr>
+							<td><b>VP Events</b></td>
+							<td>Patrick Lasserre</td>
+						</tr>
+                                                <tr>
+							<td><b>VP Finance</b></td>
+							<td>Carl Helou</td>
+						</tr>
+                                                <tr>
+							<td><b>VP Iternal</b></td>
+							<td>Ming Jia (Peter) Wang</td>
+						</tr>
+					</table>
+E-mail Address: ceus.mcgill@gmail.com
+Civil Lounge: Macdonald 291</p>
 
-					<p>POWE’s main goals are:</p>
-
-					<ul>
-						<li>To promote awareness for female students in engineering</li>
-						<li>To encourage young women to join this field of study by
-							exposing them to the many career opportunities that an
-							engineering degree offers</li>
-						<li>To enlighten others about the important contributions and
-							general role of women in the engineering field</li>
-						<li>To create a positive and friendly environment where fellow
-							female engineers can socialize and seek support</li>
-					</ul>
-
+<table cellpadding="5">
+						<tr>
+							<td><b>President</b></td>
+							<td><div>Neil DenToom</div></td>
+						</tr>
+						<tr>
+							<td><b>U1 Rep</b></td>
+							<td>Avril Levasseur</td>
+						</tr>
+                                                <tr>
+							<td><b>U2 Rep</b></td>
+							<td>Milad Moradi</td>
+						</tr>
+						<tr>
+							<td><b>U3</b></td>
+							<td>Martin DeSousa</td>
+						</tr>
+                                                <tr>
+							<td><b>VP Academic Affairs</b></td>
+							<td>Enis Hulli</td>
+						</tr>
+                                                <tr>
+							<td><b>VP Administration</b></td>
+							<td>Adam Hasham</td>
+						</tr>
+                                                <tr>
+							<td><b>VP Communications</b></td>
+							<td>Prashanth Selvakumar</td>
+						</tr>
+                                                <tr>
+							<td><b>VP Events</b></td>
+							<td>Patrick Lasserre</td>
+						</tr>
+                                                <tr>
+							<td><b>VP Finance</b></td>
+							<td>Carl Helou</td>
+						</tr>
+                                                <tr>
+							<td><b>VP Iternal</b></td>
+							<td>Ming Jia (Peter) Wang</td>
+						</tr>
+					</table>
 				</div>
 			</div>
 		</div>
